@@ -4,6 +4,13 @@
  * Date: 
  * For comprehensive documentation and examples, please visit:
  * https://docs.particle.io/firmware/best-practices/firmware-template/
+
+
+
+
+THIS IS PURELY EXAMPLE CODE AND UNTESTED WITH THE DHT SENSOR AND LIBRARY SELECTED
+
+
  */
 
 // Include Particle Device OS APIs
